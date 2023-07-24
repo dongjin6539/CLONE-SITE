@@ -1,5 +1,6 @@
 # React.js를 이용한 CLONE SITE 사이트 만들기
 ![image](https://github.com/dongjin6539/CLONE-SITE/blob/main/readme.png)
+clone site로 기존에 존재하는 웹 사이트의 디자인과 레이아웃을 모방하거나 재현했습니다.
 
 # 사이트
 
