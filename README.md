@@ -1,5 +1,5 @@
 # React.js를 이용한 CLONE SITE 사이트 만들기
-![image](https://github.com/dongjin6539/site2023-react01/blob/main/readme.png)
+![image](https://github.com/dongjin6539/CLONE-SITE/blob/main/readme.png)
 
 # 사이트
 
